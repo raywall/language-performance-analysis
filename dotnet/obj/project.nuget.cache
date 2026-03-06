@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgAQiwIa6Wg=",
+  "success": true,
+  "projectFilePath": "/Users/raysouz/Workspace/estudos/compare-memory-performance/dotnet/dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/raysouz/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/raysouz/.nuget/packages/amazon.lambda.runtimesupport/1.10.0/amazon.lambda.runtimesupport.1.10.0.nupkg.sha512",
+    "/Users/raysouz/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.3/amazon.lambda.serialization.systemtextjson.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

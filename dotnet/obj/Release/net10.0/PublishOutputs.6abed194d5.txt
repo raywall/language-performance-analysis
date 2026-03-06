@@ -1,0 +1,8 @@
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/dotnet
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/dotnet.dll
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/dotnet.deps.json
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/dotnet.runtimeconfig.json
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/dotnet.pdb
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/Amazon.Lambda.Core.dll
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/Amazon.Lambda.RuntimeSupport.dll
+/Users/raysouz/Workspace/estudos/compare-memory-performance/bin/dotnet/main/Amazon.Lambda.Serialization.SystemTextJson.dll
